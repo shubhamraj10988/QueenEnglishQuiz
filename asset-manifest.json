@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QueenEnglishQuiz/static/css/main.86b6a172.chunk.css",
+    "main.js": "/QueenEnglishQuiz/static/js/main.270a07b8.chunk.js",
+    "main.js.map": "/QueenEnglishQuiz/static/js/main.270a07b8.chunk.js.map",
+    "runtime-main.js": "/QueenEnglishQuiz/static/js/runtime-main.4569f971.js",
+    "runtime-main.js.map": "/QueenEnglishQuiz/static/js/runtime-main.4569f971.js.map",
+    "static/js/2.29abc786.chunk.js": "/QueenEnglishQuiz/static/js/2.29abc786.chunk.js",
+    "static/js/2.29abc786.chunk.js.map": "/QueenEnglishQuiz/static/js/2.29abc786.chunk.js.map",
+    "static/js/3.20932d9c.chunk.js": "/QueenEnglishQuiz/static/js/3.20932d9c.chunk.js",
+    "static/js/3.20932d9c.chunk.js.map": "/QueenEnglishQuiz/static/js/3.20932d9c.chunk.js.map",
+    "index.html": "/QueenEnglishQuiz/index.html",
+    "static/css/main.86b6a172.chunk.css.map": "/QueenEnglishQuiz/static/css/main.86b6a172.chunk.css.map",
+    "static/js/2.29abc786.chunk.js.LICENSE.txt": "/QueenEnglishQuiz/static/js/2.29abc786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4569f971.js",
+    "static/js/2.29abc786.chunk.js",
+    "static/css/main.86b6a172.chunk.css",
+    "static/js/main.270a07b8.chunk.js"
+  ]
+}
